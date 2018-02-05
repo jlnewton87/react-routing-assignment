@@ -1,0 +1,16 @@
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  padding-right: 30px;
+  text-decoration: none;
+  color: green;
+}
+
+nav a:hover,
+nav a:active,
+nav a.active {
+  color: red;
+  text-decoration: underline;
+}
